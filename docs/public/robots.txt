@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://jatandeep.github.io/portfolio-website/sitemap.xml
